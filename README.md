@@ -28,5 +28,3 @@ Esses conteúdos serão desenvolvidos em Python. Esta linguagem de programação
 BEQUETTE, B. W., 2003, Process Control, Modeling, Design and Simulation, Prentice-Hall.
 LUYBEN, W.L., 1990, Process modeling, simulation, and control for chemical engineers, 2nd Edition. McGraw-Hill.
 SEBORG, D.E., EDGAR, T.F., MELLICHAMP, D.A., 2011, Process Dynamics and Control, 3rd Edition. John Wiley & Sons.
-![image](https://github.com/juliosdutra/Controle_de_Processos_GitHub/assets/61989878/6568e87d-d685-49ce-b241-9998ff2d70e5)
-
