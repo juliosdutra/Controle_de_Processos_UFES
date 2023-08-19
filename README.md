@@ -20,3 +20,7 @@ Esses conteúdos serão desenvolvidos em Python. Esta linguagem de programação
 - scipy
 - matplotlib 
 - python-control
+
+# Citation
+
+```
