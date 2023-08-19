@@ -1,1 +1,53 @@
-# Simulação de um processo: reator CSTR
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul  4 22:31:40 2023
+
+@author: Izabella Gabriel
+"""
+
+#%%Importar bibliotecas
+import numpy as np
+import matplotlib.pyplot as plt
+
+#%%informar os dados do problema
+xexp = np.array([220.00, 230.00, 240.00, 250.00, 260.00, 270.00, 280.00, 290.00, 300.00])
+yexp = np.array([17.18, 20.78, 24.97, 29.82, 35.42, 41.85, 49.18, 57.53, 66.98])
+
+#%%fazer gráfico (vizualizar os dados experimentais)
+plt.plot(xexp, yexp, 'or', label = 'Dados experimentais')
+plt.xlabel('Temperatura, °F')
+plt.ylabel('Pressão, psia')
+plt.grid()
+plt.legend()
+
+
+#%%Implementar a interpolação de lagrange
+def interp_Lagrange(x,y,X):
+    #x:valor independente
+    #y: valor dependente sendo y = f(x)
+    #X: valor a ser interpolado, xmin < X < xmax
+
+    n = len(x)  #nº de amostras (lenght vem de comprimento)
+    L = np.ones(n)  #L = np.ones_like(x)
+    for i in range (0,n):
+        for j in range(0,n):
+            if i != j:
+                L[j] = (X - x[i])/(x[j] - x[i])*L[j]
+    else:
+        #calcular o valor interpolado
+        Y = L @ y
+        return Y
+
+#%% A) Lagrange de ordem 2
+Texp = np.array([220.00, 260.00, 300.00])
+Pexp = np.array([17.18, 35.42, 66.98])
+
+#definindo o intervalo da interpolação
+N = 40
+X = np.linspace(220.00, 300.00, N)
+Y = np.zeros(N)
+for m in range(0,N):
+    Y[m] = interp_Lagrange(Texp, Pexp, X[m])
+
+plt.plot(X,Y, label  = 'Valores interpolados')
+plt.legend()
