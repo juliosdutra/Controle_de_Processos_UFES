@@ -24,7 +24,7 @@ Esses conteúdos serão desenvolvidos em Python. Esta linguagem de programação
 - matplotlib 
 - python-control
 
-**Referências Bibliográficas**
-BEQUETTE, B. W., 2003, Process Control, Modeling, Design and Simulation, Prentice-Hall.
-LUYBEN, W.L., 1990, Process modeling, simulation, and control for chemical engineers, 2nd Edition. McGraw-Hill.
-SEBORG, D.E., EDGAR, T.F., MELLICHAMP, D.A., 2011, Process Dynamics and Control, 3rd Edition. John Wiley & Sons.
+# Referências Bibliográficas
+- BEQUETTE, B. W., 2003, Process Control, Modeling, Design and Simulation, Prentice-Hall.
+- LUYBEN, W.L., 1990, Process modeling, simulation, and control for chemical engineers, 2nd Edition. McGraw-Hill.
+- SEBORG, D.E., EDGAR, T.F., MELLICHAMP, D.A., 2011, Process Dynamics and Control, 3rd Edition. John Wiley & Sons.
