@@ -4,7 +4,7 @@ Conteúdo produzido pelo Prof. Julio Cesar Sampaio Dutra para auxiliar na discip
 
 Com o objetivo de aplicar os conceitos da disciplina de Controle de Processos, é proposta a realização de uma série de atividades aplicadas a exemplos da Engenharia Química ou de áreas afins. Isto é feito no intuito de desenvolver habilidades computacionais essenciais para o uso de software de computador para ajudar a descrever e projetar sistemas de controle, importantes também para as áreas de modelagem e simulação.
 
-A partir da literatura, será selecionado um exemplo com modelagem matemática fenomenológica com dinâmica no tempo, bem como o conjunto de parâmetros necessários para a simulação. Para não elevar a complexidade de implementação computacional dos modelos, será escolhido um modelo com parâmetros concentrados. Uma cópia do trabalho selecionado será compartilhada na sala virtual.
+A partir da literatura, será selecionado um exemplo com modelagem matemática fenomenológica com dinâmica no tempo, bem como o conjunto de parâmetros necessários para a simulação. Para não elevar a complexidade de implementação computacional dos modelos, será escolhido um modelo com parâmetros concentrados.
 
 
 Serão trabalhadas as seguintes atividades:
