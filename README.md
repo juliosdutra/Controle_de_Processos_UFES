@@ -7,9 +7,9 @@ Com o objetivo de aplicar os conceitos da disciplina de Controle de Processos, �
 A partir da literatura, será selecionado um exemplo com modelagem matemática fenomenológica com dinâmica no tempo, bem como o conjunto de parâmetros necessários para a simulação. Para não elevar a complexidade de implementação computacional dos modelos, será escolhido um modelo com parâmetros concentrados.
 
 
-Serão trabalhadas as seguintes atividades:
+** Serão trabalhadas as seguintes atividades: **
 
-**1. Implementação de modelo matemático ** <br>
+** 1. Implementação de modelo matemático ** <br>
 - Linearização do modelo não lineares
 - Obtenção de funções de transferência
 -	Análise do processo (ordem, polos, zeros, ...)
