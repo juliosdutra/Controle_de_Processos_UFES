@@ -16,7 +16,7 @@ Serão trabalhadas as seguintes atividades:
 Esses conteúdos serão desenvolvidos em Python. Esta linguagem de programação ganhou notoriedade na área de Ciência de Dados, mas também tem tido preferência como plataforma de solução de problemas de engenharia. Existem diversas opções de ambientes para desenvolvimento em Python, sendo que a plataforma mais popular hoje é a Anaconda. Ela contém ferramentas importantes como o Spyder (que é um ambiente para programar em Python), além de um conjunto enorme de pacotes populares já instalados (numpy, scipy, matlibplot, etc). Por isso, é necessário que os alunos façam o download da plataforma Anaconda em seus computadores a partir do site www.anaconda.com/, e procedam a instalação que é muito simples. 
 
 # Requirementos
--numpy
--scipy
--matplotlib 
--python-control
+- numpy
+- scipy
+- matplotlib 
+- python-control
