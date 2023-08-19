@@ -7,12 +7,12 @@ No contexto de ensino-aprendizagem remoto emergencial (EARTE), o desenvolvimento
 
 Serão trabalhadas as seguintes atividades:
 
-a)	Implementação de modelo matemático
-b)	Linearização do modelo não lineares
-c)	Obtenção de funções de transferência
-d)	Análise do processo (ordem, polos, zeros, ...)
-e)	Projeto de controladores e sintonia
-f)	Simulação computacional - em malha fechada, com testes regulador e servo
+- a)	Implementação de modelo matemático
+- b)	Linearização do modelo não lineares
+- c)	Obtenção de funções de transferência
+- d)	Análise do processo (ordem, polos, zeros, ...)
+- e)	Projeto de controladores e sintonia
+- f)	Simulação computacional - em malha fechada, com testes regulador e servo
 
 Esses conteúdos serão desenvolvidos em Python. Esta linguagem de programação ganhou notoriedade na área de Ciência de Dados, mas também tem tido preferência como plataforma de solução de problemas de engenharia. Existem diversas opções de ambientes para desenvolvimento em Python, sendo que a plataforma mais popular hoje é a Anaconda. Ela contém ferramentas importantes como o Spyder (que é um ambiente para programar em Python), além de um conjunto enorme de pacotes populares já instalados (numpy, scipy, matlibplot, etc). Por isso, é necessário que os alunos façam o download da plataforma Anaconda em seus computadores a partir do site www.anaconda.com/, e procedam a instalação que é muito simples. 
 
