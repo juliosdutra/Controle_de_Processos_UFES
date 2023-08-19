@@ -3,7 +3,6 @@ Com o objetivo de aplicar os conceitos da disciplina de Controle de Processos, �
 
 A partir da literatura, será selecionado um exemplo com modelagem matemática fenomenológica com dinâmica no tempo, bem como o conjunto de parâmetros necessários para a simulação. Para não elevar a complexidade de implementação computacional dos modelos, será escolhido um modelo com parâmetros concentrados. Uma cópia do trabalho selecionado será compartilhada na sala virtual.
 
-No contexto de ensino-aprendizagem remoto emergencial (EARTE), o desenvolvimento das atividades práticas da disciplina poderá ser executado em grupos, cujos resultados serão entregues por escrito na forma de um relatório.
 
 Serão trabalhadas as seguintes atividades:
 
