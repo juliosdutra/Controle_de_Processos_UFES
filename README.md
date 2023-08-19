@@ -7,7 +7,7 @@ No contexto de ensino-aprendizagem remoto emergencial (EARTE), o desenvolvimento
 
 Serão trabalhadas as seguintes atividades:
 
-* Implementação de modelo matemático
+- Implementação de modelo matemático
 - Linearização do modelo não lineares
 - Obtenção de funções de transferência
 -	Análise do processo (ordem, polos, zeros, ...)
