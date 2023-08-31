@@ -16,7 +16,13 @@ A partir da literatura, será selecionado um exemplo com modelagem matemática f
 -	Projeto de controladores e sintonia
 - Simulação computacional - em malha fechada, com testes regulador e servo
 
-Esses conteúdos serão desenvolvidos em Python. Esta linguagem de programação ganhou notoriedade na área de Ciência de Dados, mas também tem tido preferência como plataforma de solução de problemas de engenharia. Existem diversas opções de ambientes para desenvolvimento em Python, sendo que a plataforma mais popular hoje é a Anaconda. Ela contém ferramentas importantes como o Spyder (que é um ambiente para programar em Python), além de um conjunto enorme de pacotes populares já instalados (numpy, scipy, matlibplot, etc). Por isso, é necessário que os alunos façam o download da plataforma Anaconda em seus computadores a partir do site www.anaconda.com/, e procedam a instalação que é muito simples. 
+Esses conteúdos serão desenvolvidos em Python, uma linguagem de programação que conquistou reconhecimento tanto na área de Ciência de Dados quanto como plataforma preferencial para solução de problemas de engenharia. Para trabalhar com Python, você dispõe de uma variedade de ambientes de desenvolvimento, e um dos mais populares hoje em dia é a Anaconda. Além disso, outra opção amplamente utilizada é o Google Colab, uma plataforma baseada em nuvem que oferece um ambiente integrado para escrever e executar código Python.
+
+A Anaconda, por exemplo, disponibiliza ferramentas essenciais, incluindo o Spyder, um ambiente de programação dedicado ao Python, e já inclui uma ampla gama de pacotes populares preinstalados, como numpy, scipy, matplotlib, entre outros. Para aproveitar essas vantagens, é recomendado que os alunos realizem o download da plataforma Anaconda por meio do site www.anaconda.com/ e sigam o processo de instalação, que é bastante simples.
+
+Além disso, o Google Colab oferece uma abordagem diferente ao desenvolvimento em Python, pois é uma plataforma baseada em nuvem que elimina a necessidade de configurações locais. Você pode acessar o Colab diretamente pelo navegador, o que facilita o compartilhamento de projetos e colaborações em equipe. Ele também já possui muitos pacotes comuns pré-instalados e oferece recursos de aceleração por hardware, como GPUs, para acelerar a execução de código intensivo computacionalmente.
+
+Portanto, tanto a Anaconda quanto o Google Colab são opções valiosas para iniciar sua jornada de programação em Python, cada uma com suas próprias vantagens. A escolha entre essas plataformas dependerá das suas necessidades e preferências individuais.
 
 # Requirementos
 - numpy
