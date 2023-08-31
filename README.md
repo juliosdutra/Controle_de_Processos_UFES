@@ -9,7 +9,7 @@ A partir da literatura, será selecionado um exemplo com modelagem matemática f
 
 **Serão trabalhadas as seguintes atividades:**
 
--1. Implementação de modelo matemático
+- Implementação de modelo matemático
 - Linearização do modelo não lineares
 - Obtenção de funções de transferência
 -	Análise do processo (ordem, polos, zeros, ...)
